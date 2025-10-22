@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class HelloWorld2 : MonoBehaviour
 {
+    int i = 10;
     // Start is called before the first frame update
     void Start()
     {
