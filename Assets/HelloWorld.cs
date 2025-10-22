@@ -7,7 +7,7 @@ public class HelloWorld : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log("¾È³ç°©½À´Ï´Ù");
     }
 
     // Update is called once per frame
