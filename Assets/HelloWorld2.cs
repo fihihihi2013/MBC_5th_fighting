@@ -12,11 +12,8 @@ public class HelloWorld2 : MonoBehaviour
         Debug.Log("멘토가 수정한 내용입니다");
 
         Debug.Log("ㅇㅅㅇ;;ㄷㄷㄷㄷㄷ");
-<<<<<<< HEAD
         Debug.Log("dddddddㅅㅇ;;");
-=======
         Debug.Log("ㅇㅅㅇ;;ㄷㄷㄷㄷㄷ");
->>>>>>> dc9bd5b880670297ab7f86eec2411b52d69b18aa
     }
 
     // Update is called once per frame
