@@ -11,6 +11,8 @@ public class HelloWorld : MonoBehaviour
         Debug.Log("dd");
         Debug.Log("가나다라마바사");
         Debug.Log("안녕푸바오");
+
+        Debug.Log(1 + 2 + 3 + 4 + 5);
     }
 
     // Update is called once per frame
