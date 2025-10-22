@@ -10,6 +10,8 @@ public class HelloWorld2 : MonoBehaviour
     void Start()
     {
         Debug.Log("멘토가 수정한 내용입니다");
+
+        Debug.Log("ㅇㅅㅇ;;");
     }
 
     // Update is called once per frame
