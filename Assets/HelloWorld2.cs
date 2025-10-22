@@ -11,6 +11,7 @@ public class HelloWorld2 : MonoBehaviour
     {
         Debug.Log("멘토가 수정한 내용입니다");
 
+        Debug.Log("ㅇㅅㅇ;;ㄷㄷㄷㄷㄷ");
 <<<<<<< HEAD
         Debug.Log("dddddddㅅㅇ;;");
 =======
